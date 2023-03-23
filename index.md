@@ -21,19 +21,8 @@ I am a third-year PhD student at [Zhejiang University](https://www.zju.edu.cn/),
 - Testing, verification and repair of practical deep learning models from multiple dimensions such as robustness, fairness and copyright;
 - Verification of concurrent reactive systems, OS kernels;
 - (Semi-)Automatic modelling and verification of security protocols;
-- Other related topics like fuzzing, symbolic execution, etc.
+- Other related topics like fuzzing, symbolic execution, etc. -->
 
-Collaborations are warmly welcome from both academia or industry.
-
-<!-- my research concerns *how to better design, implement and analyze systems, with a focus on artificial intelligence (AI) systems and cyber-physical systems (CPS), such as autonomous driving car, industrial control system, and recommendation system, using various software engineering (SE) techniques ranging from formal methods, program analysis to software testing.* <u>Most of my recent works are focused on testing and enhancing the robustness or fairness of deep learning models deployed in different application domains to improve the system reliability and security.</u> -->
- -->
-<!-- #### Vacencies
-
-<!-- <font color="#dd0000"> -->
-**I am always actively looking for self-motivated PostDoc/PhD/master/research assistants/research interns with competitive packages to join my group at ZJU.**
-<!-- </font>  -->
-Feel free to drop me an email with CV if you find any of the above research topics interesting. Preferred PhD candidates should either be good at programming or maths, and more importantly love doing research. For ZJU students, please walk in to my office at Lecture Buildng 9-350, if you wish to have a talk.
- -->
 
 #### Hobbies
 
