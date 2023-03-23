@@ -22,3 +22,11 @@ permalink: /pubs/
 
 - [**ICSE, CCF A**] Jingyi Wang, **Jialuo Chen**, Youcheng Sun, Xingjun Ma, Dongxia Wang, Jun Sun and Peng Cheng. *RobOT: Robustness-Oriented Testing for Deep Learning Systems*. 43rd International Conference on Software Engineering, Madrid, Spain, May 2021. 
 
+## Finished Manuscripts
+
+- [**Submitted to TDSC, CCF A**] *Testing for Copyright Protection of Deep Learning Models*. 
+
+- [**Submitted to TIFS, CCF A**] *A2E: Black-box Anti-adversarial Example based Watermarking to Verify Federated Unlearning*. 
+
+
+
