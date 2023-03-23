@@ -2,7 +2,7 @@
 layout: page
 # title: About
 permalink: /
-image: images/yan.jpeg
+image: images/yan2.jpeg
 ---
 
 I am a third-year PhD student at [Zhejiang University](https://www.zju.edu.cn/), Hangzhou, China. 
