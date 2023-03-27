@@ -27,4 +27,4 @@ Army Chess, Cuisine, Painting, Hiking, Jogging, etc.
 
 
 #### Contact
-**[chenjialuo@zju.edu.cn](mailto:chenjialuo@zju.edu.cn) **
+**[chenjialuo@zju.edu.cn](mailto:chenjialuo@zju.edu.cn)**
