@@ -5,12 +5,12 @@ permalink: /
 image: images/yan2.jpeg
 ---
 
-I am a third-year PhD student at [Zhejiang University](https://www.zju.edu.cn/), Hangzhou, China. 
+I am a third-year PhD student at <span style="color:blue">[Zhejiang University](https://www.zju.edu.cn/)</span>, Hangzhou, China. 
 
 
 #### Experience
 
-I am now a third-year Phd student major in Computer Science (Security). My supervisors are Prof. [Peng Cheng](https://person.zju.edu.cn/en/cp#0) and Prof. [Jingyi Wang](https://wang-jingyi.github.io/). I received my B.S. degree in [Automation](http://www.cse.zju.edu.cn/) (2020) with honors from [Chu Kochen Honors College](http://ckc.zju.edu.cn/ckcen/wbout/list.htm)(Mixed Class), Zhejiang University. I graduated from Hangzhou Xuejun High School (2016). 
+I am now a third-year Phd student major in Computer Science (Security) at Zhejiang University. My supervisors are Prof. [Peng Cheng](https://person.zju.edu.cn/en/cp#0) and Prof. [Jingyi Wang](https://wang-jingyi.github.io/). I received my B.S. degree in [Automation](http://www.cse.zju.edu.cn/) (2020) with honors from [Chu Kochen Honors College](http://ckc.zju.edu.cn/ckcen/wbout/list.htm) (Mixed Class), Zhejiang University. I graduated from Hangzhou Xuejun High School (2016). 
 
 
 <!-- <img align="right" src="images/me2.jpeg" />  -->
