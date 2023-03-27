@@ -5,7 +5,7 @@ permalink: /
 image: images/hl.jpeg
 ---
 
-I am a third-year PhD student at <span color="#0d5ed5">[Zhejiang University](https://www.zju.edu.cn/)</span>, Hangzhou, China. 
+I am a third-year PhD student at <span style="color: #0d5ed5;"><a href="https://www.zju.edu.cn/">Zhejiang University</a></span>, Hangzhou, China. 
 
 #### Experience
 
