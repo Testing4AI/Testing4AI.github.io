@@ -1,6 +1,6 @@
 ---
 layout: page
-title: CV
+title: Service
 permalink: /service/
 <!-- image: images/12.jpg -->
 ---
