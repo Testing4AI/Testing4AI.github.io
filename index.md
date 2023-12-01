@@ -22,6 +22,7 @@ I am a visiting PhD student at **[Uninversity of Manchester](https://www.manches
 #### Hobbies
 
 I'm a foody :) I hope to eat aross China before completing my PhD studies.
+
 I also like playing army chess, a relatively niche type of board game.
 
 #### Contact
