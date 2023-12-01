@@ -21,8 +21,8 @@ I am a visiting PhD student at **[Uninversity of Manchester](https://www.manches
 
 #### Hobbies
 
-Army Chess, Cuisine, Painting, Hiking, etc. 
-
+I'm a foody :) I hope to eat aross China before completing my PhD studies.
+I also like playing army chess, a relatively niche type of board game.
 
 #### Contact
 **[chenjialuo@zju.edu.cn](mailto:chenjialuo@zju.edu.cn)**
