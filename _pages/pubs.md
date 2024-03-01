@@ -13,10 +13,7 @@ permalink: /pubs/
 <!-- [Google Scholar](https://scholar.google.com.sg/citations?user=GjkTuMQAAAAJ&hl=en)
  -->
 
-Jialuo Chen, Jingyi Wang, Youcheng Sun, Peng Cheng, and Jiming Chen.
-2024. Isolation-based Debugging for Neural Networks. In Proceedings of
-ACM SIGSOFT International Symposium on Software Testing and Analysis
-(ISSTA 2024).
+
 
 - [**ISSTA, CCF A**] **Jialuo Chen**, Jingyi Wang, Youcheng Sun, Peng Cheng, and Jiming Chen. *Isolation-based Debugging for Neural Networks*. 33rd ACM SIGSOFT International Symposium on Software Testing and Analysis, Vienna, Austria, September 2024. 
 
