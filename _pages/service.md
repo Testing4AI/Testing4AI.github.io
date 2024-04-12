@@ -6,9 +6,12 @@ permalink: /service/
 ---
 
 
+#### PC
+- CAV'24 Artifact Evaluation Track
 
 #### Reviewer
 - IEEE Transactions on Software Engineering
+- ACM Transactions on Software Engineering and Methodology
 
 
 #### Talk
