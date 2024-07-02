@@ -15,7 +15,7 @@ permalink: /pubs/
 
 - [**ISSTA, CCF A**] Xiangshan Gao, **Jialuo Chen**, Jingyi Wang, Jie Shi, Peng Cheng, and Jiming Chen. *TeDA: A Testing Framework for Data Usage Auditing in Deep Learning Model Development*. 33rd ACM SIGSOFT International Symposium on Software Testing and Analysis, Vienna, Austria, September 2024.
   
-- [**ISSTA, CCF A**] **Jialuo Chen**, Jingyi Wang, Youcheng Sun, Peng Cheng, and Jiming Chen. *Isolation-based Debugging for Neural Networks*. 33rd ACM SIGSOFT International Symposium on Software Testing and Analysis, Vienna, Austria, September 2024 (first round accepted). 
+- [**ISSTA, CCF A**] **Jialuo Chen**, Jingyi Wang, Youcheng Sun, Peng Cheng, and Jiming Chen. *Isolation-based Debugging for Neural Networks*. 33rd ACM SIGSOFT International Symposium on Software Testing and Analysis, Vienna, Austria, September 2024. 
 
 - [**TOSEM, CCF A**] **Jialuo Chen**, Jingyi Wang, Xingjun Ma, Youcheng Sun, Jun Sun, Peixin Zhang and Peng Cheng. *QuoTe: Quality-oriented Testing for Deep Learning Systems*. ACM Transactions on Software Engineering and Methodology, 32(5), 1-33, 2023. 
  
