@@ -21,7 +21,7 @@ permalink: /pubs/
 
 - [**TOSEM, CCF A**] **Jialuo Chen**, Jingyi Wang, Xingjun Ma, Youcheng Sun, Jun Sun, Peixin Zhang and Peng Cheng. *QuoTe: Quality-oriented Testing for Deep Learning Systems*. ACM Transactions on Software Engineering and Methodology, 32(5), 1-33, 2023. 
  
-- [**ICSE DEMO**] **Jialuo Chen**, Youcheng Sun, Jingyi Wang, Peng Cheng and Xingjun Ma. *DeepJudge: A Testing Framework for Copyright Protection of Deep Learning Models*. 45th International Conference on Software Engineering: Companion Proceedings, Melbourne, Australia, May, 2023.
+- [**ICSE, CCF A**] **Jialuo Chen**, Youcheng Sun, Jingyi Wang, Peng Cheng and Xingjun Ma. *DeepJudge: A Testing Framework for Copyright Protection of Deep Learning Models*. 45th International Conference on Software Engineering: Companion Proceedings, Melbourne, Australia, May, 2023.
 
 - [**S&P, CCF A**] **Jialuo Chen**, Jingyi Wang, Tinglan Peng, Youcheng Sun, Peng Cheng, Shouling Ji, Xingjun Ma, Bo Li and Dawn Song. *Copy, Right? A Testing Framework for Copyright Protection of Deep Learning Models*. 43rd IEEE Symposium on Security and Privacy, Oakland, USA, May 2022.
 
