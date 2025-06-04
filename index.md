@@ -15,9 +15,8 @@ I was a visiting PhD student at **Uninversity of Manchester** (Prof. **[Youcheng
 
 #### Research Interest
 
-- Software Engineering for AI 
+- Software Engineering & AI 
 - Machine Learning Security 
-- Cyber-Physical System Security 
 
 
 #### Contact
