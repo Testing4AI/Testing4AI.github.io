@@ -6,9 +6,7 @@ image: images/ocean.jpg
 ---
 #### Education
 
-I am now a **fifth-year PhD student** major in **Computer Science (Security)** at **Zhejiang University**, Hangzhou, China. My supervisors are Prof. **[Peng Cheng](https://person.zju.edu.cn/en/cp#0)** and Prof. **[Jingyi Wang](https://wang-jingyi.github.io/)**. I received my **B.S. degree** in Automation (2020) with honors from **Chu Kochen Honors College**, Zhejiang University. 
-I was a visiting PhD student at **Uninversity of Manchester** (Prof. **[Youcheng Sun](https://research.manchester.ac.uk/en/persons/youcheng.sun)**'s group) and **University of Oxford** (Prof. **[Marta Kwiatkowska](https://www.cs.ox.ac.uk/people/marta.kwiatkowska/)**'s group). 
-
+I received my **Ph.D. degree** in **Computer Science (Security)** from **Zhejiang University** in 2025, where I was advised by Prof. **[Peng Cheng](https://person.zju.edu.cn/en/cp#0)** and Prof. **[Jingyi Wang](https://wang-jingyi.github.io/)**. During my doctoral studies, I was a visiting PhD student at the **Uninversity of Manchester** in Prof. **[Youcheng Sun](https://research.manchester.ac.uk/en/persons/youcheng.sun)**'s group and at the **University of Oxford** in Prof. **[Marta Kwiatkowska](https://www.cs.ox.ac.uk/people/marta.kwiatkowska/)**'s group. I received my **B.S. degree** in Automation (2020) with honors from **Chu Kochen Honors College**, Zhejiang University. 
 
 <!-- <img align="right" src="images/me2.jpeg" />  -->
 <!-- <img style="float: right;" src="images/me2.jpeg">  -->
