@@ -13,6 +13,8 @@ permalink: /pubs/
 <!-- [Google Scholar](https://scholar.google.com.sg/citations?user=GjkTuMQAAAAJ&hl=en)
  -->
 
+- [**TDSC, CCF A**] Xiangshan Gao, Jingyi Wang, Zhikun Zhang, **Jialuo Chen**, Peng Cheng, Jiming Chen. *A2E: Black-box Anti-adversarial Example based Watermarking to Verify Federated Unlearning*. IEEE Transactions on Dependable and Secure Computing, 2025.
+
 - [**ISSTA, CCF A**] Xiaohan Yuan, Jinfeng Li, Dongxia Wang, Yuefeng Chen, Xiaofeng Mao, Longtao Huang, **Jialuo Chen**, Hui Xue, Xiaoxia Liu, Wenhai Wang, Kui Ren, and Jingyi Wang. *S-Eval: Towards Automated and Comprehensive Safety Evaluation for Large Language Models*. 34th ACM SIGSOFT International Symposium on Software Testing and Analysis, Trondheim, Norway, June 2025.  
 
 - [**ASE, CCF A**] **Jialuo Chen**, Jingyi Wang, Xiyue Zhang, Youcheng Sun, Marta Kwiatkowska, Jiming Chen, and Peng Cheng. *FAST: Boosting Uncertainty-based Test Prioritization Methods for Neural Networks via Feature Selection*. 39th IEEE/ACM International Conference on Automated Software Engineering, California, United States, October 2024.   
