@@ -25,7 +25,7 @@ I received my **Ph.D. in Computer Science (Security)** from **Zhejiang Universit
 
 #### Contact
 
-I am always open to learning, discussion, and research collaboration. If you are interested in related topics, feel free to reach out by email. I would be very happy to connect and explore potential collaboration.
+I am always open to learning, discussion, and research collaboration. If you are interested in related topics, feel free to reach out by email. 
 
 **[chenjialuo@zju.edu.cn](mailto:chenjialuo@zju.edu.cn)**
 
