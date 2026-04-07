@@ -7,7 +7,7 @@ image: images/ocean.jpg
 
 #### Experience
 
-I am currently an Algorithm Expert at **Ant Group** through the Ant Star Program, and a Joint Postdoctoral Researcher at **Zhejiang University**. My research focuses on security for large language models and agent systems. Previously, I worked as a Principal Researcher at **Huawei 2012 Labs**, where I focused on AI infrastructure. I am deeply grateful for that experience.
+I am currently an Algorithm Expert (Ant Star) at **Ant Group**, and a Joint Postdoctoral Researcher at **Zhejiang University**. My research focuses on security for large language models and agent systems. Previously, I worked as a Principal Researcher at **Huawei 2012 Labs**, where I focused on AI infrastructure. I am deeply grateful for that experience.
 
 #### Education
 
